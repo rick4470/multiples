@@ -10,7 +10,7 @@ def print_multiples(multiples_of, count)
   end
 end
 
-puts "Hey whats going on! lets display multiples of a number"
+puts  "Hey whats going on! lets display multiples of a number"
 puts "Now be precise and give me the number and the last multiple you want me to go to"
 STDOUT.flush 
 multiple = gets.chomp 
